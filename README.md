@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Smart Contact Manager
 Smart Contact Manager is a web-based application designed to manage personal and professional contacts. Built using Spring Boot, Thymeleaf, and Oracle Database, this application offers an intuitive interface and robust features for efficient contact management.
 
@@ -39,3 +40,6 @@ Clone the Repository:
 git clone https://github.com/kotavenkatesh2618@gmai.com/smart-contact-manager.git
 cd smart-contact-manager
 About
+=======
+# SMART-CONTACT-MANAGER
+>>>>>>> 3358946 (Reinitialized repository)
